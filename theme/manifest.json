@@ -1,0 +1,129 @@
+{
+  "manifest_version": 2,
+  "name": "TOMATO",
+  "version": "0.0.1",
+  "description": "Google Chrome Theme",
+  "icons": {
+    "16": "source/icon/icon-16.png",
+    "48": "source/icon/icon-48.png",
+    "128": "source/icon/icon-128.png"
+  },
+  "theme": {
+    "images": {
+      "theme_frame": "source/frame/theme_frame.png",
+      "theme_frame_inactive": "source/frame/theme_frame_inactive.png",
+      "theme_frame_incognito": "source/frame/theme_frame_incognito.png",
+      "theme_frame_incognito_inactive": "source/frame/theme_frame_incognito_inactive.png",
+      "theme_tab_background": "source/frame/theme_tab_background.png",
+      "theme_tab_background_incognito": "source/frame/theme_tab_background_incognito.png",
+      "theme_ntp_background": "source/frame/theme_ntp_background.png",
+      "theme_ntp_attribution": "source/frame/theme_ntp_attribution.png",
+      "theme_toolbar": "source/frame/theme_toolbar.png",
+      "theme_window_control_background": "source/frame/theme_window_control_background.png"
+    },
+    "colors": {
+      "frame": [
+        255,
+        255,
+        255
+      ],
+      "frame_inactive": [
+        255,
+        255,
+        255
+      ],
+      "frame_incognito": [
+        255,
+        255,
+        255
+      ],
+      "frame_incognito_inactive": [
+        255,
+        255,
+        255
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "tab_background_text": [
+        87,
+        87,
+        87
+      ],
+      "toolbar": [
+        255,
+        255,
+        255
+      ],
+      "bookmark_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_background": [
+        255,
+        255,
+        255
+      ],
+      "ntp_text": [
+        87,
+        87,
+        87
+      ],
+      "ntp_link": [
+        87,
+        87,
+        87
+      ],
+      "ntp_section_text": [
+        87,
+        87,
+        87
+      ],
+      "ntp_section_link": [
+        87,
+        87,
+        87
+      ]
+    },
+    "tints": {
+      "frame": [
+        1,
+        1,
+        1
+      ],
+      "frame_inactive": [
+        1,
+        1,
+        1
+      ],
+      "frame_incognito": [
+        1,
+        1,
+        1
+      ],
+      "frame_incognito_inactive": [
+        1,
+        1,
+        1
+      ],
+      "background_tab": [
+        1,
+        1,
+        1
+      ],
+      "buttons": [
+        1,
+        1,
+        1
+      ]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 1
+    }
+  }
+}
