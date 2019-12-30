@@ -2,7 +2,7 @@
 Theme of Chrome
 
 ## Requirements
-- Google Chrome 79+
+- Google Chrome 80+
 
 ## Usage
     - chrome://extensions/
